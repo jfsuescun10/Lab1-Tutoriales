@@ -1,3 +1,8 @@
+# Before we start
+1. Find a partner to work with during the semester.
+2. Select a team representative to always accept the homework assigned in Github Classroom. This person is also in charge of giving access to his/her partner to the homework's repository (it's actually very easy so don't worry about it). 
+**IMPORTANT NOTE:** Only one of you must accept the homework!
+
 # Introduction to GIT
 ![](https://imgs.xkcd.com/comics/git_2x.png)
 
@@ -185,3 +190,7 @@ See a more complete list at https://git-scm.com/downloads/guis
   
 - XKCD
   http://xkcd.com/1597/
+
+
+# Homework
+Complete the Python tutorial and commit it to the homework's repository.
